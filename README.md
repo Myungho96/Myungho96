@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100)
-
+<p align="center">
 <a href="mailto:facade960409@gmail.com" target="_blank"><img src="https://img.shields.io/badge/facade960409@gmail.com-ff0000?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
-
+<a><img src="https://img.shields.io/badge/SSAFY-1428A0?style=flat&logo=Samsung&logoColor=FFFFFF"/></a>
+</p>
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myungho96&show_icons=true&theme=radical)
 
