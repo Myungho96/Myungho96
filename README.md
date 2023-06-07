@@ -1,5 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100)
+
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myungho96&show_icons=true&theme=radical)
+
+
+
+
+
 <!--
 **Myungho96/Myungho96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
