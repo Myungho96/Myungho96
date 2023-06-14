@@ -6,8 +6,6 @@
 
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myungho96&show_icons=true&theme=radical)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=facade0409)](https://solved.ac/facade0409)
 
 ####  :clipboard: Once I've Used 
