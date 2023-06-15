@@ -4,7 +4,9 @@
 <a><img src="https://img.shields.io/badge/SSAFY-1428A0?style=flat&logo=Samsung&logoColor=FFFFFF"/>
 </p>
 
-### Hi there 👋
+<h3 align="center">👨‍💻 Hi there 👨‍💻</h3>
+<div align="center">
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=facade0409)](https://solved.ac/facade0409)
 
