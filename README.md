@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100)
-</div>
+</p>
 <h3 align="center">👨‍💻 Hi there 👨‍💻</h3>
 <div align="center">
 
