@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100)
-<h3 align="center">👨‍💻 Hi there 👨‍💻</h3>
+<h3 align="center">👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg) 👨‍💻</h3>
 <div align="center">
 
 
