@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+to+Myungho+Github🐯🤖&font=Redressed&size=30)](https://git.io/typing-svg)
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100">
   <img src="https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+to+Myungho+Github🐯🤖&font=Redressed&size=30">
 </p>
 
