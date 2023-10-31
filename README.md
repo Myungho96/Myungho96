@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MyunghoKim%20%20&height=200&fontSize=100">
   <img src="https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+to+Myungho+Github🐯🤖&font=Redressed&size=30">
 </p>
+
+<h3 align="center">👨‍💻 Hello World 👨‍💻</h3>
+<div align="center">
 <p>
   <a href="https://checkered-mile-f00.notion.site/14414a25056c41b2b8912eab242b31c3?pvs=4"><img src="https://img.shields.io/badge/Notion(portfolio)-000000?style=flat-square&logo=notion&logoColor=white" width="400"/></a>
 </p>
-<h3 align="center">👨‍💻 Hello World 👨‍💻</h3>
-<div align="center">
-
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=facade0409)](https://solved.ac/facade0409)
 
