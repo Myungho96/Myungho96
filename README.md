@@ -6,7 +6,9 @@
 
 <h3 align="center">👨‍💻 Hello World 👨‍💻</h3>
 <div align="center">
-
+<p>
+  <a href="https://checkered-mile-f00.notion.site/14414a25056c41b2b8912eab242b31c3?pvs=4"><img src="https://img.shields.io/badge/Notion(portfolio)-000000?style=flat-square&logo=notion&logoColor=white" width="400"/></a>
+</p>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=facade0409)](https://solved.ac/facade0409)
 
@@ -30,9 +32,7 @@
   <a><img src="https://img.shields.io/badge/SSAFY-1428A0?style=flat&logo=Samsung&logoColor=FFFFFF"/></a>&nbsp
   <a href="mailto:facade960409@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=facade960409@gmail.com"/></a>
 </p>
-<p>
-  <a href="https://checkered-mile-f00.notion.site/14414a25056c41b2b8912eab242b31c3?pvs=4"><img src="https://img.shields.io/badge/Notion(portfolio)-000000?style=flat-square&logo=notion&logoColor=white" width="500"/></a>
-</p>
+
   
   
   
