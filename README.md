@@ -29,7 +29,7 @@
 <p align="center">
   <a><img src="https://img.shields.io/badge/SSAFY-1428A0?style=flat&logo=Samsung&logoColor=FFFFFF"/></a>&nbsp
   <a href="mailto:facade960409@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=facade960409@gmail.com"/></a>
-  <a href="https://checkered-mile-f00.notion.site/14414a25056c41b2b8912eab242b31c3?pvs=4"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://checkered-mile-f00.notion.site/14414a25056c41b2b8912eab242b31c3?pvs=4"><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
   
   
